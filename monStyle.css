@@ -2,7 +2,7 @@
 /* Sélecteur par type de balise et nom de couleur */
 body {
    height: 1000px;
-    background: linear-gradient(to bottom, #66FFFF 0%, #800000 100%) 
+    background: linear-gradient(to left, #66FFFF 0%, #800000 100%) 
 
 }
 h1 {
