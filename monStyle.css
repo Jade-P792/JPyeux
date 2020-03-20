@@ -1,0 +1,25 @@
+/* Ceci est un commentaire en CSS */
+/* Sélecteur par type de balise et nom de couleur */
+body {
+   height: 1000px;
+    background: linear-gradient(to bottom, #66FFFF 0%, #800000 100%) 
+
+}
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+/* Sélecteur par classe et couleur hexadécimal */
+.argent {
+  color: black;
+}
+/* Sélecteur par identifiant et couleur RGB */
+#toto {
+  color: rgb(255,0,0);
+}
+#titi {
+  color: rgb(255,255,0);
+}
+#tata {
+  color: rgb(0,0,255);
+}
